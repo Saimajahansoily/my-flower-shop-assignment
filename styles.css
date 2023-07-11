@@ -11,6 +11,7 @@
 }
 .intro-container{
     padding: 100px;
+    width: 600px;
 }
 .image-1{
     width: 300px;
@@ -26,16 +27,16 @@
     
 }
 .description{
-    font-size: small;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 8px;
+    padding-top: 18px;
+    padding-bottom: 18px;
     text-align: left;
     width: 250px;
 
 }
 
 .btn{
-padding: 10px;
+padding: 10px 20px;
 background-color: rgb(250, 74, 103);
 border: none;
 border-radius: 5px;
@@ -57,21 +58,21 @@ border-radius: 5px;
     display: flex;
     align-items: center;
     gap: 50px;
-    width: 69%;
+    width: 74%;
     margin: auto;
 }
 .box{
-    height: 350px;
-    width: 300px;
+    height: 400px;
+    width: 350px;
     background-color: pink;
-    border-radius: 150px 150px 1px 1px;
+    border-radius: 160px 160px 1px 1px;
     align-items: center;
 }
 .box-img-1{
-    width: 150px;
-    height: 300px;
+    width: 180px;
+    height: 350px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 60px;
     
 }
 .box-2{
@@ -106,7 +107,7 @@ border-radius: 5px;
     width: 60%;
     margin: auto;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 140px;
 }
 
 .delivery-description{
@@ -156,7 +157,10 @@ border-radius: 5px;
 .card{
     width: 250px;
 }
-
+.instagram{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
 .instagram-title{
     font-size: 30px ;
     font-weight: bold;
@@ -207,6 +211,7 @@ text-align: center;
 
 .wedding-description{
 padding-top: 10px;
+padding-bottom: 10px;
 }
 
 .last-div{
