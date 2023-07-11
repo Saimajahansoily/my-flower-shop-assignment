@@ -1,0 +1,227 @@
+ *{
+    margin: 0px;
+    padding: opx;
+ }
+ .intro-heading{
+    display: flex;
+    justify-content: space-around;
+    /* padding: 100px; */
+    background-color: rgb(240, 225, 227);
+    gap: 40px;
+}
+.intro-container{
+    padding: 100px;
+}
+.image-1{
+    width: 300px;
+    height: 450px;
+    
+    
+}
+
+.title{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.description{
+    font-size: small;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    width: 250px;
+
+}
+
+.btn{
+padding: 10px;
+background-color: rgb(250, 74, 103);
+border: none;
+border-radius: 5px;
+}
+
+.featured-title{
+    text-align: center;
+    padding: 100px;
+    width: 600px;
+    margin-left: 400px;
+    
+}
+
+.featured-title-line{
+    font-size: 30px;
+    font-weight: bold;
+}
+.flower-collection{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    width: 69%;
+    margin: auto;
+}
+.box{
+    height: 350px;
+    width: 300px;
+    background-color: pink;
+    border-radius: 150px 150px 1px 1px;
+    align-items: center;
+}
+.box-img-1{
+    width: 150px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.box-2{
+    background-color: rgb(210, 234, 226);
+}
+
+.box-3{
+    background-color: rgb(200, 210, 206);
+}
+.tree{
+    margin-left: 80px;
+    color: black;
+    font-size: 15px;
+
+}
+
+.fetured-description{
+    padding: 10px;
+    font-size: 10px;
+    font-weight: lighter;
+}
+
+
+
+
+.delivary-system{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px;
+    background-color: rgb(230, 230, 235);
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.delivery-description{
+    padding: 10px;
+    font-size: 10px;
+}
+
+.offer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px;
+    background-color: rgb(242, 223, 226);
+    margin-top: 100px;
+}
+.off{
+    color: rgb(205, 52, 77);
+}
+.offer-descripton{
+    width: 600px;
+    text-align: center;
+}
+
+.offer-title{
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.offer-paragraph{
+    font-size: 10px;
+    padding: 10px;
+}
+
+.instagram{
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    gap: 20px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+.card{
+    width: 250px;
+}
+
+.instagram-title{
+    font-size: 30px ;
+    font-weight: bold;
+    padding: 10px;
+}
+.instagram-description{
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.deals{
+width: 57%;
+background-image: url("Flower Asset/Rectangle\ 9.png");
+margin: auto;
+padding: 100px;
+margin-top: 100px;
+text-align: center;
+}
+.deal-title{
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+.deal-input{
+    padding: 10px;
+    width: 500px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.wedding-collection{
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    width: 70%;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.wedding-img{
+    width: 100px;
+}
+
+.wedding-description{
+padding-top: 10px;
+}
+
+.last-div{
+    background-color: black;
+    color: white;
+    background-size: cover;
+    margin-top: 200px;
+    padding: 200px;
+    text-align: center;
+}
+
+.last-description{
+    padding: 10px;
+}
+
+.copyright{
+    padding: 10px;
+}
